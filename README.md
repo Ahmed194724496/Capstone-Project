@@ -22,14 +22,14 @@ This project is a backend solution for managing events using Django and Django R
    cd Capstone-Project  
 Install dependencies:
 bash
-نسخ الكود
+
 pip install -r requirements.txt  
 Configure the database in settings.py with your PostgreSQL credentials.
 Apply migrations:
 bash
-نسخ الكود
+
 python manage.py migrate  
 Run the server:
 bash
-نسخ الكود
+
 python manage.py runserver  
